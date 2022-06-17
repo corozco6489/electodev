@@ -10,11 +10,11 @@ export default function Home() {
               <div className="line"></div>
               <div className="line line2"></div>
               <i className="fas fa-circle"></i>
-              <h3>Electronic</h3>
+              <h3>Electrónica</h3>
             </div>
             <div className="heading_bottom">
               <h1>
-                <span>Electro</span> Dev
+                <span>Orozco</span> Tech
               </h1>
             </div>
           </div>

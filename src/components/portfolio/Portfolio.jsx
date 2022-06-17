@@ -104,6 +104,35 @@ export default function Portfolio() {
           <div className="box">
           <div class="gumroad-product-embed" data-outbound-embed="true"><a href="https://corozco6489.gumroad.com/l/veqbu">Cargando...</a></div>
           </div>
+
+          <div className="box">
+          <div class="gumroad-product-embed" data-outbound-embed="true"><a href="https://corozco6489.gumroad.com/l/jkrnv">Cargando...</a></div>
+          </div>
+
+
+          <div className="box">
+          <div class="gumroad-product-embed" data-outbound-embed="true"><a href="https://corozco6489.gumroad.com/l/ybmub">Cargando...</a></div>
+          </div>
+
+
+          <div className="box">
+          <div class="gumroad-product-embed" data-outbound-embed="true"><a href="https://corozco6489.gumroad.com/l/imwzua">Cargando...</a></div>
+          </div>
+
+
+          <div className="box">
+          <div class="gumroad-product-embed" data-outbound-embed="true"><a href="https://corozco6489.gumroad.com/l/wygbk">Cargando...</a></div>
+          </div>
+
+
+          <div className="box">
+          <div class="gumroad-product-embed" data-outbound-embed="true"><a href="https://corozco6489.gumroad.com/l/blred">Cargando...</a></div>
+          </div>
+
+
+          <div className="box">
+          <div class="gumroad-product-embed" data-outbound-embed="true"><a href="https://corozco6489.gumroad.com/l/skkuk">Cargando...</a></div>
+          </div>
         </div>
       </div>
     </section>
